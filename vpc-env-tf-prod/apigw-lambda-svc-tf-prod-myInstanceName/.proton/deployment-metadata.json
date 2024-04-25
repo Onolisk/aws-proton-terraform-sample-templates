@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "42a69b4e-570f-4210-b98e-d1a70010f1b9",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:527207589752:service/apigw-lambda-svc-tf-prod/service-instance/myInstanceName",
+    "templateArn" : "arn:aws:proton:us-east-1:527207589752:service-template/apigw-lambda-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-1:527207589752:environment/vpc-env-tf-prod"
+  }
+}
