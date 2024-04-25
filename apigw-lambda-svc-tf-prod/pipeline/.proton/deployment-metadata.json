@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "c6fb88c8-8fab-407e-8dfb-8eebedb70919",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:527207589752:service/apigw-lambda-svc-tf-prod/pipeline",
+    "templateArn" : "arn:aws:proton:us-east-1:527207589752:service-template/apigw-lambda-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
